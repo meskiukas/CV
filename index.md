@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+Beidi Beer
+---
 
-You can use the [editor on GitHub](https://github.com/meskiukas/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+-------------------     ----------------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+email: beidi.beer@gmail.com | website: beydi.webflow.com 
 
-### Markdown
+-------------------     ----------------------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Education
+---------
+ **BA, Economics and Accounting**
+ 2008-2012 | University of California (Santa Barbara)
+ 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Experience
+----------
+ ### **Customer Acquisition and Conversion:**
+July 2017 - Present | Self-employed
+* Conduct deep market research to identify ideal customers
+* Create high converting landing pages and marketing funnels
+* Analyse key marketing metrics to improve conversion
+* Increase brand awareness and client acquisition through paid advertising channels
 
-- Bulleted
-- List
+### **Sales and Accounting Assistant**
+December 2015 - June 2017 | Azuma Foods International USA
+* Provided support to the accounting department as needed
+* Received, prepared, and processed daily sales orders
+* Provided General customer service and answered Japanese line
+* Generated and maintained price-lists
+* Maintained good customer relationships with frequent contact points
 
-1. Numbered
-2. List
+### **Bilingual Accounts Payable (French/English)**
+November 2013 - May 2015 | Technicolor 
+* Routed invoices for necessary approvals and ensured accurate General ledger coding
+* Processed up to 1000 invoices weekly, expenses reports, and check requests for payment via SAP
+* Initiated and prepared weekly check runs
+* Maintained vendor relationships and resolve any discrepancies
+* Kept up to date aging reports,records, and files
+* Helped transition all the accounts payable duties from Montreal's office to California
 
-**Bold** and _Italic_ and `Code` text
+### **Assistant Track & Field Coach**
+September 2012 - June 2013 | Riverside City College
+* Prepared, organized, and led daily team workouts
+* Mentored over 80 athletes utilizing knowledge  and experience acquired from training at Division I collegiate level
+* Helped the team win a state championship title in 2013
+--------------------
+**Skills:** Data Analytics, Paid Advertising, Web Design, Sales Funnel creation, Market research
 
-[Link](url) and ![Image](src)
-```
+**Software:** Figma, Photoshop, Final Cut Pro, Webflow
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Programming Languages:** HTML/CSS, Python (Basic)
 
-### Jekyll Themes
+**Human Languages:** French (native speaker), English, Japanese (Intermediate)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/meskiukas/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
