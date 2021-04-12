@@ -1,5 +1,5 @@
 Beidi Beer
-___
+---
 
 email: beidi.beer@gmail.com | website: beydi.webflow.com 
 
@@ -15,7 +15,7 @@ Education
 
 Experience
 ----------
- ### **Customer Acquisition and Conversion:**
+### **Customer Acquisition and Conversion:**
 July 2017 - Present | Self-employed
 * Conduct deep market research to identify ideal customers
 * Create high converting landing pages and marketing funnels
@@ -44,7 +44,7 @@ September 2012 - June 2013 | Riverside City College
 * Prepared, organized, and led daily team workouts
 * Mentored over 80 athletes utilizing knowledge  and experience acquired from training at Division I collegiate level
 * Helped the team win a state championship title in 2013
---------------------
+
 **Skills:** Data Analytics, Paid Advertising, Web Design, Sales Funnel creation, Market research
 
 **Software:** Figma, Photoshop, Final Cut Pro, Webflow
