@@ -1,8 +1,6 @@
 Beidi Beer
 ___
 
--------------------     ----------------------------
-
 email: beidi.beer@gmail.com | website: beydi.webflow.com 
 
 -------------------     ----------------------------
