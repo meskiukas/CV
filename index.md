@@ -46,6 +46,8 @@ September 2012 - June 2013 | Riverside City College
 * Mentored over 80 athletes utilizing knowledge  and experience acquired from training at Division I collegiate level
 * Helped the team win a state championship title in 2013
 
+
+---
 **Skills:** Data Analytics, Paid Advertising, Web Design, Sales Funnel creation, Market research
 
 **Software:** Figma, Photoshop, Final Cut Pro, Webflow
