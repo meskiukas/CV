@@ -2,7 +2,7 @@ Beidi Beer
 ---
 
 email: [beidi.beer@gmail.com](mailto:beidi.beer@gmail.com) 
-website: [beydi.webflow.com](https://beydi.webflow.com)
+website: [beydi.webflow.com](http://beydi.webflow.com)
 
 -------------------
 
