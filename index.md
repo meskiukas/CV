@@ -3,9 +3,10 @@ Beidi Beer
 
 email: beidi.beer@gmail.com | website: beydi.webflow.com 
 
--------------------     ----------------------------
+-------------------
 
 Education
+----------
 
  **BA, Economics and Accounting**
  
