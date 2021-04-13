@@ -1,16 +1,14 @@
 Beidi Beer
 ---
 
-email: beidi.beer@gmail.com | website: beydi.webflow.com 
+email: beidi.beer@gmail.com  website: beydi.webflow.com 
 
 -------------------
 
 Education
 ----------
 
- **BA, Economics and Accounting**
- 
- 2008-2012 | University of California (Santa Barbara)
+ **BA, Economics and Accounting** 2008-2012 | University of California (Santa Barbara)
  
 
 
